@@ -1,0 +1,33 @@
+.navbar {
+  display: grid;
+  grid-template-columns: 33% 34% 33%;
+  text-align: center;
+}
+.profilePic {
+  width: 5rem;
+  height: 5rem;
+  object-fit: cover;
+}
+.postContainer {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.profileContainer {
+  display: grid;
+  grid-template-columns: 6rem 30%;
+}
+.paragraph {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.profileName {
+  margin-top: 2rem;
+}
+.image {
+  width: 100%;
+  height: 20rem;
+  object-fit: cover;
+}
+/*
+ctrl+/
+*/
